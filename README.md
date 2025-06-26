@@ -2,4 +2,4 @@
 
 # My Adventure Game
 ## By SVS
-### An explanation of our code here!
+An explanation of our code here!
